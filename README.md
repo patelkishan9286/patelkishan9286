@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Kishan Patel. I am a 7th semester student and I am really interested in the area of ML/DL.
 
 - 🌱 I’m currently learning some new concepts about **Machine Learning** and **Deep Learning**.
-- 👯 I’m currently looking for an internship.
+- :mag_right: I’m currently looking for an internship.
 - :boy: I'm a quick:zap: learner.
 - 🤔 I need help with gaining more practical knowledge.
 - 📫 How to reach me: Well, you can contact me by sending an email me on patelkishan9286@gmail.com.
