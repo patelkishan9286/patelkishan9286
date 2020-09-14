@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋
 
 <!--
@@ -6,11 +8,18 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Kishan Patel. I am a 7th semester student and I am really interested in the area of ML/DL.
+
+- 🌱 I’m currently learning some new concepts about **Machine Learning** and **Deep Learning**.
+- 👯 I’m currently looking for an internship.
+- :boy: I'm a quick:zap: learner.
+- 🤔 I need help with gaining more practical knowledge.
+- 📫 How to reach me: Well, you can contact me by sending an email me on patelkishan9286@gmail.com.
+- :calling: Also, here's my LinkedIn profile :arrow_right: [patelkishan9286](https://www.linkedin.com/in/patelkishan9286/)
