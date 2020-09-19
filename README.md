@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 
 
 - 💬 Ask me about ...
-
+- ⚡ Fun fact:
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 I am Kishan Patel. I am a 7th semester student and I am really interested in the area of ML/DL.
 
@@ -21,5 +20,6 @@ I am Kishan Patel. I am a 7th semester student and I am really interested in the
 - :mag_right: I’m currently looking for an internship.
 - :boy: I'm a quick:zap: learner.
 - 🤔 I need help with gaining more practical knowledge.
-- 📫 How to reach me: Well, you can contact me by sending an email me on patelkishan9286@gmail.com.
 - :calling: Also, here's my LinkedIn profile :arrow_right: [patelkishan9286](https://www.linkedin.com/in/patelkishan9286/)
+- 📫 You can contact me by sending an email at patelkishan9286@gmail.com.
+
