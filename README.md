@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 - 😄 Pronouns: ...
 -->
-I am Kishan Patel. I am a 7th semester student and I am really interested in the area of ML/DL.
+I am Kishan Patel. I have completed my bachelor's degree from CHARUSAT University.
 
-- 🌱 I’m currently learning some new concepts about **Machine Learning** and **Deep Learning**.
-- :mag_right: I’m currently looking for an internship.
+- 🌱 I’m currently learning some new general concepts.
+- :mag_right: I’m currently looking for a job that suits my interests.
 - :boy: I'm a quick:zap: learner.
 - 🤔 I need help with gaining more practical knowledge.
 - :calling: Also, here's my LinkedIn profile :arrow_right: [patelkishan9286](https://www.linkedin.com/in/patelkishan9286/)
