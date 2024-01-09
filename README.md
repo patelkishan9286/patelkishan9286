@@ -1,25 +1,28 @@
+### Hello, I'm Kishan Patel 👋
 
+🎓 **About Me**
+- Currently pursuing a Master of Applied Computer Science at Dalhousie University.
+- Passionate about technology and innovation, with a keen interest in software development and design.
+- Eager to contribute to meaningful projects and gain hands-on experience through a coop/internship.
 
-### Hi there 👋
+👨‍💻 **Technical Skills**
+- **Languages**: Java, Golang, Javascript, Typescript, Python, HTML, CSS
+- **Frameworks**: Spring Boot, Node.js, Express.js, Next.js, Gin Web Framework
+- **Libraries**: React, Redux, React Router, JWT, Material UI, Ant Design
+- **Databases**: MongoDB, MySQL, DynamoDB, Redis
+- **Concepts**: Agile Methodology, Microservices, Serverless, UI/UX Design, SOLID Principles, Rest API, Git
+- **Misc**: Amazon Web Services, Kubernetes, Docker, Jira, Postman, VS Code, IntelliJ
 
-<!--
-**patelkishan9286/patelkishan9286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Soft Skills**
+- Proven leadership and team-building abilities, developed through active engagement in community and campus initiatives.
+- Strong communication and outreach skills, honed through campaigning and promotion activities.
+- Exceptional problem-solving, strategic thinking, and adaptability, nurtured through participation in diverse group activities and training camps.
+- A commitment to continuous learning and improvement, coupled with a disciplined and focused approach to tasks.
 
-Here are some ideas to get you started:
+🔍 **Currently Seeking**
+- Opportunities for coop/internships in software development, cloud computing, or related fields.
+- Projects where I can apply my technical expertise and further develop my professional skills.
 
-- 🔭 I’m currently working on ...
-
-
-- 💬 Ask me about ...
-- ⚡ Fun fact:
-- 😄 Pronouns: ...
--->
-I am Kishan Patel. I have completed my bachelor's degree from CHARUSAT University.
-
-- 🌱 I’m currently learning some new general concepts.
-- :mag_right: I’m currently looking for a job that suits my interests.
-- :boy: I'm a quick:zap: learner.
-- 🤔 I need help with gaining more practical knowledge.
-- :calling: Also, here's my LinkedIn profile :arrow_right: [patelkishan9286](https://www.linkedin.com/in/patelkishan9286/)
-- 📫 You can contact me by sending an email at patelkishan9286@gmail.com.
-
+🤝 **Let's Connect**
+- LinkedIn: [patelkishan9286](https://www.linkedin.com/in/patelkishan9286/)
+- Email: patelkishan9286@gmail.com
