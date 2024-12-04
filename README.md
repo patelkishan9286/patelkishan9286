@@ -30,6 +30,9 @@
   - Built a cloud-based, real-time collaborative text editor with secure document sharing and storage.
 - **NextJob** | Next.js, Go, MongoDB, TypeScript
   - Developed a dynamic job search platform connecting job seekers with employers.
+- **Academic Planner** | React, Redux, Java, JWT, Spring Boot, HTML/CSS
+  - Designed and developed a tailored calendar application for university students, focusing on an intuitive UI and
+efficient task management using Java and Spring Boot
 - **CreatorConnect** | Java, Spring Boot, React, Material UI, MySQL
   - Created a platform to bridge marketing firms with influencers, with robust search and user authentication features.
 - **COVID-19 Dashboard** | Python, Flask, Folium
