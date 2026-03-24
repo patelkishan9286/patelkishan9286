@@ -3,7 +3,6 @@
 🎓 **About Me**
 - I recently completed my Master of Applied Computer Science at Dalhousie University.
 - Passionate about technology, software development, and machine learning, with hands-on experience in both fields.
-- Seeking full-time opportunities in software development, machine learning, or related fields where I can leverage my skills to solve challenging problems and drive innovation.
 
 👨‍💻 **Technical Skills**
 - **Languages**: Java, Go, JavaScript, TypeScript, Python, C/C++, HTML, CSS
@@ -39,7 +38,6 @@ efficient task management using Java and Spring Boot
   - An interactive web-based dashboard for visualizing COVID-19 statistics across regions.
 
 🔍 **Currently Seeking**
-- Full-time roles in software development, machine learning, or cloud computing.
 - Opportunities to contribute to impactful projects where I can apply my technical expertise and continue learning.
 
 🤝 **Let's Connect**
